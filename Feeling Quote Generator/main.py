@@ -22,8 +22,10 @@ feeling('Mischeveous', '😈')
 feeling('Successful', '🤩')
 print ('______________')
 print(' ')
+
 response = input('Type to get some inspiration: ')
 
+#This code reads the user response and generates a random quote from the assigned list in Quotes.py
 if str.casefold(response) == 'happy':
     print(' ')
     print(random.choice(Quotes.Happy_list))
