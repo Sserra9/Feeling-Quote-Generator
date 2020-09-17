@@ -1,3 +1,4 @@
+#THIS GUI IS A WORK IN PROGRESS AND IS NOT A REPRESENTATION OF MY FINISHED WORK.
 from tkinter import * 
 import tkinter as tk
 
