@@ -3,7 +3,8 @@ import Quotes
 
 def feeling(feeling_type,emoji):
     print(f' {feeling_type} {emoji}')
-
+    
+#prints instructions and a list of feelings to the console.
 print(' ')
 print('Want a quote to match how you are feeling or how you want to feel?')
 print('Pick a feeling from the list and type how you are feeling or how you want to feel next to the prompt that says "Type to get some inspiration".')
